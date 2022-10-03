@@ -7489,9 +7489,9 @@ textarea.form-control-lg {
   padding-bottom: 3rem !important;
 }
 
-.py-5-5 {
-  padding-top: 4rem !important;
-  padding-bottom: 4rem !important;
+.py-5-self {
+  padding-top: 5rem !important;
+  padding-bottom: 3rem !important;
 }
 
 .pt-0 {
